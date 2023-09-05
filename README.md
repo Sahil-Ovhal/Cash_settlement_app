@@ -1,1 +1,2 @@
-# Cash_settlement_app
+# SplitwiseCashflow
+Splitwise Cashflow Web App
